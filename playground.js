@@ -1,5 +1,3 @@
-let nama = "Nama saya Alfian Rifqi Pradana";
-let umur = 30;
+let name = "Nama saya Alfian Rifqi Pradana";
 
-console.log(nama);
-console.log(umur);
+console.log(name);
